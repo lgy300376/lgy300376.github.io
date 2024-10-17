@@ -10,7 +10,7 @@
 
 ## Demo 预览
 
-在线预览地址：[链接](https://4ark.me/star-battle)
+在线预览地址：[链接](https://lgy300376.github.io/)
 
 ## 游戏规则
 
